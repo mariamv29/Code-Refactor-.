@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/*STYLES TO APPLY TO THE HEADER*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,7 +26,7 @@ body {
   color: #d9dcd6;
 }
 
-.header div {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -34,11 +35,11 @@ body {
   font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
   list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -51,6 +52,8 @@ a {
 p {
   font-size: 16px;
 }
+
+/*HERE STYLES*/
 
 .hero {
   height: 800px;
@@ -76,6 +79,8 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
+/*BENEFIT SECTION STYLE */
 
 .benefits {
   margin-right: 20px;
@@ -137,12 +142,14 @@ p {
   max-width: 150px;
 }
 
+/* BENEFIT SECTION STYLE ENDS*/
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
-    sans-serif;
+    "sans-serif";
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -152,7 +159,7 @@ p {
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
-    sans-serif;
+    "sans-serif";
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -162,7 +169,7 @@ p {
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
-    sans-serif;
+    "sans-serif";
   background-color: #0072bb;
   color: #ffffff;
 }
