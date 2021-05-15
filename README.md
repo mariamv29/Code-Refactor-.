@@ -2,8 +2,8 @@
 
 HTML CHANGES
 
-1. Added navigation, section, image descriptions.
-2. Replaced a a few div elements with semantic HTML elements.
+1. Replaced div elements with semantic HTML elements.
+2. Image ALT were added after img link.
 
 CSS CHANES
 
