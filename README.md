@@ -4,6 +4,7 @@ HTML CHANGES
 
 1. Replaced div elements with semantic HTML elements.
 2. Image ALT were added after img link.
+3. Element descriptions were added through out the code.
 
 CSS CHANES
 
