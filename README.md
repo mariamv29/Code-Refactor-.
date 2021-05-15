@@ -3,9 +3,12 @@
 HTML CHANGES
 
 1. Added navigation, section, image descriptions.
-2. Replaced a a few div elements with other semantic elements to describe what how each section functions.
+2. Replaced a a few div elements with semantic HTML elements.
 
 CSS CHANES
 
 1. Added " " to the font family calibri, arial, sans-serif.
 2. Added descriptions to each section.
+3. Consilated a few CSS repetitive classes.
+
+[Page-screenshot]: ![_Users_mariamireles_Desktop_challenges_week1-challenge_index html (1)](https://user-images.githubusercontent.com/83253575/118372455-56fba480-b577-11eb-8c4d-f1e920dc41d1.png)
