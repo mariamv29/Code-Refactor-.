@@ -8,7 +8,7 @@ HTML CHANGES
 4. A class emelent was added to was originally line 29, now line 37.
 5. Title was replaced in the title element from "Website" to "Horiseon."
 
-CSS CHANES
+CSS CHANGES
 
 1. Added " " to the font family calibri, arial, sans-serif.
 2. Added descriptions to each section.
